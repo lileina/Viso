@@ -17,3 +17,5 @@ public class Test{
 		}
 	}
 }
+
+#奇数偶数的判定
